@@ -12,7 +12,7 @@
 <u><b> (🇮🇩) Seluruh Koleksi Write Ups dan penelusuran </b></u><br><b>(🇬🇧) All Collections of my Write Ups and Walkthrough</b> 
 </p>
 
-### Before Proccesing through the write-ups, Please note that this is for educational purposes only.
+### Before Proccesing through the write-ups, Please note that this is for educational purposes only, and contains spoiler.
 
 # Table of contents
 
