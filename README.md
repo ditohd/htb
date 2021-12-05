@@ -14,7 +14,7 @@
 
 ### Before Proccesing through the write-ups, Please note that this is for educational purposes only.
 
-**Table of contents**
+## **Table of contents**
 
 1. **[Starting Points](./starting%20Point)**
    - [Appointment](./starting%20Point/Appointment)
