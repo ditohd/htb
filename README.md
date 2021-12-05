@@ -13,3 +13,15 @@
 </p>
 
 ### Before Proccesing through the write-ups, Please note that this is for educational purposes only.
+
+**Table of contents**
+
+1. Starting Points
+   - [Appointment](./starting%20Point/Appointment)
+   - [Archetype](./starting%20Point/Archetype)
+   - [Dancing](./starting%20Point/Dancing)
+   - [Explosion](./starting%20Point/Explosion)
+   - [Fawn](./starting%20Point/Fawn)
+   - [Meow](./starting%20Point/Meow)
+   - [Oopsie](./starting%20Point/Oopsie)
+   - [Vaccine](./starting%20Point/Vaccine)
