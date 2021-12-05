@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Mon Nov 29 10:24:32 2021 as: nmap -sV -sC -oA nmap/Oopsie 10.129.217.11
+Host: 10.129.217.11 ()	Status: Up
+Host: 10.129.217.11 ()	Ports: 22/open/tcp//ssh//OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.29 ((Ubuntu))/, 3551/filtered/tcp//apcupsd///, 32782/filtered/tcp//unknown///	Ignored State: closed (996)
+# Nmap done at Mon Nov 29 10:25:33 2021 -- 1 IP address (1 host up) scanned in 60.22 seconds
