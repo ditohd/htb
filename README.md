@@ -13,5 +13,5 @@
  <a href="https://github.com/RustScan/RustScan#-usage">Usage Guide</a>
  ⬅️
 <br>
-<img src="pictures/rustscan.png" height=400px width=400px>
+<img src="assets/winrar.png" height=400px width=400px>
 </p>
