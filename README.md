@@ -16,12 +16,12 @@
 
 # Table of contents
 
-- **[Starting Points](./starting%20Point)**
-  - [Appointment](./starting%20Point/Appointment)
-  - [Archetype](./starting%20Point/Archetype)
-  - [Dancing](./starting%20Point/Dancing)
-  - [Explosion](./starting%20Point/Explosion)
-  - [Fawn](./starting%20Point/Fawn)
-  - [Meow](./starting%20Point/Meow)
-  - [Oopsie](./starting%20Point/Oopsie)
-  - [Vaccine](./starting%20Point/Vaccine)
+- **[Starting Points](../htb/Starting%20Point/)**
+  - [Appointment](../htb/Starting%20Point/Appointment/)
+  - [Archetype](../htb/Starting%20Point/)
+  - [Dancing](../htb/Starting%20Point/)
+  - [Explosion](../htb/Starting%20Point/)
+  - [Fawn](../htb/Starting%20Point/)
+  - [Meow](../htb/Starting%20Point/)
+  - [Oopsie](../htb/Starting%20Point/)
+  - [Vaccine](../htb/Starting%20Point/)
