@@ -10,7 +10,6 @@
 <p align="center">
 <a href="https://app.hackthebox.com/profile/735191"><img title="Hack The Box" src="https://img.shields.io/badge/Profile-black.svg?style=for-the-badge&logo=hackthebox"></a></p>
 <p align="left">
-<br>
 <u><b> (🇮🇩) Seluruh Koleksi Write Ups dan penelusuran </b></u><br><b>(🇬🇧) All Collections of my Write Ups and Walkthrough</b> 
 </p>
 
