@@ -77,8 +77,9 @@
     ![ping](../../assets/Screenshot%20from%202021-12-05%2023-27-31.png)
   - Scan Open Port Using nmap
     <br> `port ftp itu default nya 21`
-    <br> [Nmap Scanner](/nmap)
+    <br> [Nmap Scanner](./nmap)
 - Foothold
   - Login into FTP port
     <br> `Login menggunakan port default, username dan password menggunakan anonymous Authorization`
     ![login](../../assets/Screenshot%20from%202021-12-05%2023-38-25.png)
+  - dan berhasil dapat flagnya
