@@ -16,7 +16,7 @@
 
 **Table of contents**
 
-1. Starting Points
+1. **[Starting Points](./starting%20Point)**
    - [Appointment](./starting%20Point/Appointment)
    - [Archetype](./starting%20Point/Archetype)
    - [Dancing](./starting%20Point/Dancing)
