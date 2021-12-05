@@ -1,6 +1,5 @@
+<h1 align="center"> Hack The Box Write Ups</h1>
 <p align="center">
-<b>Hack The Box Write-Ups</b>
-<br>
 <a href="https://wa.me/6285246827575"><img title="Whatsapp" src="https://img.shields.io/badge/Whatsapp-black.svg?style=for-the-badge&logo=Whatsapp"></a> |
 <a href="https://instagram.com/dito.hd"><img title="Instagram" src="https://img.shields.io/badge/Instagram-black.svg?style=for-the-badge&logo=Instagram"></a> |
 <a href="https://web.facebook.com/Dito.HD/"><img title="Instagram" src="https://img.shields.io/badge/Facebook-black.svg?style=for-the-badge&logo=Facebook"></a>
