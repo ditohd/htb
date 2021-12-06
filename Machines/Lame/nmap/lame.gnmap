@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Mon Dec  6 20:22:10 2021 as: nmap -sV -sC -oA nmap/lame 10.129.192.227
+Host: 10.129.192.227 ()	Status: Up
+Host: 10.129.192.227 ()	Ports: 21/open/tcp//ftp//vsftpd 2.3.4/, 22/open/tcp//ssh//OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)/, 139/open/tcp//netbios-ssn//Samba smbd 3.X - 4.X (workgroup: WORKGROUP)/, 445/open/tcp//netbios-ssn//Samba smbd 3.0.20-Debian (workgroup: WORKGROUP)/	Ignored State: filtered (996)
+# Nmap done at Mon Dec  6 20:23:39 2021 -- 1 IP address (1 host up) scanned in 88.61 seconds
