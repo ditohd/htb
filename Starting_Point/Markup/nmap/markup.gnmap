@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Mon Dec  6 19:29:30 2021 as: nmap -sV -sC -oA nmap/markup 10.129.95.192
+Host: 10.129.95.192 ()	Status: Up
+Host: 10.129.95.192 ()	Ports: 22/open/tcp//ssh//OpenSSH for_Windows_8.1 (protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.41 ((Win64) OpenSSL|1.1.1c PHP|7.2.28)/, 443/open/tcp//ssl|http//Apache httpd 2.4.41 ((Win64) OpenSSL|1.1.1c PHP|7.2.28)/	Ignored State: filtered (997)
+# Nmap done at Mon Dec  6 19:30:34 2021 -- 1 IP address (1 host up) scanned in 63.80 seconds

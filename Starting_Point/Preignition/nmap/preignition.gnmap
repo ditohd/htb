@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Mon Dec  6 03:18:32 2021 as: nmap -sV -sC -oA nmap/preignition 10.129.190.16
+Host: 10.129.190.16 ()	Status: Up
+Host: 10.129.190.16 ()	Ports: 80/open/tcp//http//nginx 1.14.2/	Ignored State: closed (999)
+# Nmap done at Mon Dec  6 03:19:14 2021 -- 1 IP address (1 host up) scanned in 42.08 seconds

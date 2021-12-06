@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Mon Dec  6 18:27:55 2021 as: nmap -sV -sU -oA nmap/includedUDP 10.129.95.185
+Host: 10.129.95.185 ()	Status: Up
+Host: 10.129.95.185 ()	Ports: 68/open|filtered/udp//dhcpc///, 69/open|filtered/udp//tftp///, 19639/open|filtered/udp//unknown///, 24854/open|filtered/udp//unknown///, 57843/open|filtered/udp//unknown///	Ignored State: closed (995)
+# Nmap done at Mon Dec  6 18:47:45 2021 -- 1 IP address (1 host up) scanned in 1190.00 seconds

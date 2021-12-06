@@ -1,0 +1,11 @@
+# Nmap 7.92 scan initiated Mon Dec  6 16:40:10 2021 as: nmap -sV -sC -oA nmap/ignition 10.129.1.27
+Nmap scan report for 10.129.1.27
+Host is up (0.35s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx 1.14.2
+|_http-title: Did not follow redirect to http://ignition.htb/
+|_http-server-header: nginx/1.14.2
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Dec  6 16:40:58 2021 -- 1 IP address (1 host up) scanned in 48.53 seconds

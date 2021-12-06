@@ -1,0 +1,13 @@
+# Nmap 7.92 scan initiated Mon Dec  6 18:27:55 2021 as: nmap -sV -sU -oA nmap/includedUDP 10.129.95.185
+Nmap scan report for 10.129.95.185
+Host is up (0.33s latency).
+Not shown: 995 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+68/udp    open|filtered dhcpc
+69/udp    open|filtered tftp
+19639/udp open|filtered unknown
+24854/udp open|filtered unknown
+57843/udp open|filtered unknown
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Dec  6 18:47:45 2021 -- 1 IP address (1 host up) scanned in 1190.00 seconds

@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Mon Dec  6 17:50:50 2021 as: nmap -sV -sC -Pn -oA nmap/tactics 10.129.183.184
+Host: 10.129.183.184 ()	Status: Up
+Host: 10.129.183.184 ()	Ports: 135/open/tcp//msrpc//Microsoft Windows RPC/, 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds?///	Ignored State: filtered (997)
+# Nmap done at Mon Dec  6 17:52:30 2021 -- 1 IP address (1 host up) scanned in 100.10 seconds
